@@ -1,0 +1,2 @@
+[2019-10-26 19:10:33] layer "info@goodfoodcuisine.com": Unsupported extension: com
+[2019-10-26 19:10:33] layer "info@goodfoodcuisine.com copy": Expected end of input but "c" found.
